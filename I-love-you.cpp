@@ -8,7 +8,7 @@ using namespace std;
 int main() {
     double x, y, size = 10;
     char symbol = '*';
-    string message = "I love you"; //an apple of my eyes🍎
+    string message = "I love you"; //an apple of my eyes
 
     system("color c");  // Windows
 
